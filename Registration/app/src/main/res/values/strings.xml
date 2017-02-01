@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Registration</string>
+    
+    <string-array name="colleges">
+        <item>Select College</item>
+        <item>PESIT</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>Select branch</item>
+        <item>CSE</item>
+        <item>ISE</item>
+        <item>Mech</item>
+        <item>ECE</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Select year</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>Select section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+</resources>
